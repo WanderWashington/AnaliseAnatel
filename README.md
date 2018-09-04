@@ -8,7 +8,7 @@ https://sistemas.anatel.gov.br/se/public/view/b/licenciamento.php
 Para visualizar esta análise, basta inserir o endereço deste repositório na plataforma Binder:
 https://mybinder.org/
 
-Vale ressaltar que por razões de limite de armazenamento nem todas as bases estão disponíveis neste repositório, porém, posteriormente serão disponibilizadas para download via Drive.
+Vale ressaltar que por razões de limite de armazenamento nem todas as bases estão disponíveis neste repositório, porém, posteriormente serão disponibilizadas para download via Drive ou serão baixadas diretamente no arquivo ipynb ao ser executado.
 
 
 
