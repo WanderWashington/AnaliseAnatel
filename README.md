@@ -12,9 +12,9 @@ Vale ressaltar que por razões de limite de armazenamento nem todas as bases est
 
 
 
-* 12/05/2019
+* Atualização de 12 de Maio de 2019
 
-  *Para facilitar a execução e tornar o ambiente mais leve no MyBinder, o arquivo com a parte de análise, contendo a limpeza de dados e   processamento de algumas informações foi removido do repositório, entretanto, ainda podemos visualizar tudo que foi gerado desta análise visualizando o arquivo Resultados.ipynb e também Anatel_BandaLargaFixa.ipynb.
+  Para facilitar a execução e tornar o ambiente mais leve no MyBinder, o arquivo com a parte de análise, contendo a limpeza de dados e   processamento de algumas informações foi removido do repositório, entretanto, ainda podemos visualizar tudo que foi gerado desta análise visualizando o arquivo Resultados.ipynb e também Anatel_BandaLargaFixa.ipynb.
 
 
 
