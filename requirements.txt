@@ -1,5 +1,5 @@
 numpy==1.17.2
-pandas==0.24.2
+pandas==0.25.1
 matplotlib==3.0.3 
 seaborn==0.8.1
 googlemaps==3.0.2
