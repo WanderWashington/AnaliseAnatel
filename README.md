@@ -24,6 +24,7 @@ Vale ressaltar que por razões de limite de armazenamento nem todas as bases est
 
 
 * **Atualizaço de 07 de Setembro de 2019**
+
   Devido aos mapas do Folium serem muito pesados para serem renderizados em algumas máquinas e até mesmo no MyBinder, fiz uma alteração no código para exibir as imagens de cada Mapa nas células onde eram exibidos os mapas diretamente. Como as imagens são mais leves, agora fica mais fácil de visualizar o resultado. As imagens estão presentes na pasta Mapas, junto aos HTML's de cada um dos mapas gerados com o Folium.
 
 
