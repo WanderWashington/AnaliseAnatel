@@ -1,10 +1,11 @@
 
 # AnaliseAnatel
-Esta análise de dados tem como objetivo auxiliar os jornalistas em suas matérias sobre os acessos a tecnologia móvel no país, através de alguns gráficos, mapas de calor e dados sobre o assunto. Para este trabalho foram utilizadas as bases de dados presentes no site da Agência Nacional de Telecomunicações(ANATEL), as quais, podem ser baixadas nos sites abaixo:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/AnaliseAnatel/master)
 [![Updates](https://pyup.io/repos/github/WanderWashington/AnaliseAnatel/shield.svg)](https://pyup.io/repos/github/WanderWashington/AnaliseAnatel/)
 [![Python 3](https://pyup.io/repos/github/WanderWashington/AnaliseAnatel/python-3-shield.svg)](https://pyup.io/repos/github/WanderWashington/AnaliseAnatel/)
+
+Esta análise de dados tem como objetivo auxiliar os jornalistas em suas matérias sobre os acessos a tecnologia móvel no país, através de alguns gráficos, mapas de calor e dados sobre o assunto. Para este trabalho foram utilizadas as bases de dados presentes no site da Agência Nacional de Telecomunicações(ANATEL), as quais, podem ser baixadas nos sites abaixo:
 
 https://cloud.anatel.gov.br/index.php/s/TpaFAwSw7RPfBa8
 
