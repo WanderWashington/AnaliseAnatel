@@ -1,5 +1,5 @@
 folium==0.10.0
-googlemaps==3.1.1
+googlemaps==4.3.0
 ipython==7.8.0
 numpy==1.17.2
 matplotlib==3.1.1 
